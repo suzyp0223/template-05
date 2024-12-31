@@ -1,0 +1,10 @@
+{
+  "entry": "index.html",
+  "styles": [
+    "style.css"
+  ],
+  "scripts": [
+    // "./components/index.js"
+    "App.js"
+  ]
+}
